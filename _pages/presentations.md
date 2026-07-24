@@ -21,7 +21,7 @@ author_profile: true
 <em>16-18 September 2025, Oral presentation, <a href="https://www.iup.uni-heidelberg.de/en/cacti-workshop-2025">Composition Air Quality Climate Interactions Initiative (CACTI) Workshop 2025 </a>, Exeter, UK</em><br>
 
 ### <em>Advancements in Marine Sulfur Chemistry: Model Updates and Evaluation with Field Observations</em>
-<em>16-17 July 2025, Oral presentation, <a href="https://projects.nilu.no/ccc/tfmm/">UKCA Science Meeting 2025 </a>, Reading, UK</em><br>
+<em>16-17 July 2025, Oral presentation, <a href="files/UKCA_Science_Meeting_Schedule_7Jul.pdf">UKCA Science Meeting 2025 </a>, Reading, UK</em><br>
 
 ### <em>Evaluation of modelled versus observed NMVOC compounds at EMEP sites</em>
 <em>6-7 May 2024, Oral presentation, <a href="https://projects.nilu.no/ccc/tfmm">25th EMEP Task Force on Measurement and Modelling Meeting</a>, Warsaw</em><br>
