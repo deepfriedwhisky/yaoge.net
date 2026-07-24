@@ -11,8 +11,20 @@ author_profile: true
 
 {% endif %}
 
+### <em>New marine sulfur chemistry strengthens aerosol–cloud cooling: greater in pre-industrial atmosphere than present day</em>
+<em>6-11 September 2026, Poster presentation, <a href="https://icacgp-igac2026.org/">Atmospheric Chemistry within the Earth System (IGAC) 2026 </a>, Heraklion, Crete, Greece</em><br>
+
+### <em>Revised marine sulfur chemistry and methanethiol emissions strengthen aerosol–cloud cooling over the Southern Ocean</em>
+<em>15-17 July 2026, Oral presentation, <a href="https://www.ukca.ac.uk/wiki/index.php/UKCA_science_meeting_2026">UKCA Science Meeting 2026 </a>, Leeds, UK</em><br>
+
+### <em>Advancements in Marine Sulfur Chemistry in UKESM</em>
+<em>16-18 September 2025, Oral presentation, <a href="https://www.iup.uni-heidelberg.de/en/cacti-workshop-2025">Composition Air Quality Climate Interactions Initiative (CACTI) Workshop 2025 </a>, Exeter, UK</em><br>
+
+### <em>Advancements in Marine Sulfur Chemistry: Model Updates and Evaluation with Field Observations</em>
+<em>16-17 July 2025, Oral presentation, <a href="https://projects.nilu.no/ccc/tfmm/">UKCA Science Meeting 2025 </a>, Reading, UK</em><br>
+
 ### <em>Evaluation of modelled versus observed NMVOC compounds at EMEP sites</em>
-<em>6-7 May 2024, Oral presentation, <a href="https://projects.nilu.no/ccc/tfmm/">25th EMEP Task Force on Measurement and Modelling Meeting</a>, Warsaw</em><br>
+<em>6-7 May 2024, Oral presentation, <a href="https://projects.nilu.no/ccc/tfmm">25th EMEP Task Force on Measurement and Modelling Meeting</a>, Warsaw</em><br>
 
 ### <em>A model adaptation for emission evaluation: comparison of modelled versus observed NMVOC compounds in Europe</em>
 <em>3 April 2024, Invited Seminar by Hazardous Air Pollutants group, U.S. Environmental Protection Agency (US EPA), Webinar</em><br>
