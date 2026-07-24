@@ -4,6 +4,10 @@ title: "Teaching"
 author_profile: true
  
 ---
+### Research Supervision
+<em>Part III Chemistry (MSci-equivalent final year), University of Cambridge, 2024.4 – present</em><br>
+Day-to-day supervisor for Part III students in Chemistry on independent research projects, from project design through to thesis and viva. Contributed to project assessment and marking.<br>
+
 ### Laboratory Facilitator, <a href="http://www.drps.ed.ac.uk/19-20/dpt/cxchem08020.htm">Environmental Chemistry 2</a>
 <em>Undergraduate Course, School of Chemistry, University of Edinburgh, 2020.1 - 2022.4</em><br>
 During my time as a laboratory facilitator in the Year 2 Undergraduate Environmental Chemistry laboratories, I was responsible for demonstrating and providing hands-on support to students during their practical lab sessions. My duties also included grading students' laboratory notebooks and final reports, which significantly contributed to their final grades.<br>
